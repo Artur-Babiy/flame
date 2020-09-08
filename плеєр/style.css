@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+}
+body {
+    background: gray;
+}
+.container {
+    margin: 40px auto;
+    max-width: 1000px;
+    text-align: center;
+    line-height: 150%;
+}
